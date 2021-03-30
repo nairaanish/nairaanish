@@ -1,0 +1,4 @@
+- Hi, I’m @nairaanish
+- I’m interested in Machine Learning, Artificial Intelligence and Embedded Systems!
+- I’m looking to collaborate on the above topics.
+- mail @ai.nairaanish@gmail.com
