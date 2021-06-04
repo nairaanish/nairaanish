@@ -1,4 +1,4 @@
-- Hi, I’m @nairaanish
+- Hi, I’m Aanish Nair!!
 - I’m interested in Machine Learning, Artificial Intelligence and Embedded Systems!
 - I’m looking to collaborate on the above topics.
 - mail @ai.nairaanish@gmail.com
